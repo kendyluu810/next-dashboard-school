@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Kendy School Management Dashboard
 
 ## Getting Started
 
